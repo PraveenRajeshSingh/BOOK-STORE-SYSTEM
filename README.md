@@ -4,6 +4,7 @@ The  “Book-Store-System” Project is a Web-based application developed using 
 Technologies Used: Java, Spring Boot, Spring  Data JPA ,Hibernate and SQL, HTML ,CSS, Thymeleaf.
 
 The frontend of the application is built using Html, Css,Thymeleaf, Bootstrap. The backend is built using java and spring boot and MySQL for data storage.
+
 The “Book-Store-System” project is a good example of a full-stack web application with CRUD functionality, and it can be used as a starting point for building more complex applications.
 
 # Homepage
