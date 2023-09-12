@@ -1,8 +1,9 @@
 # BOOK-STORE-SYSTEM.
-The  “Book-Store-System” Project is a Web-based application developed  using Java, Spring Boot, Spring Data JPA,Hibernate,HTML,CSS,Thymeleaf and SQL Database.The main objective of Book Store System is to allow user to New Book Register and intuitive interface for editing, deleting and check Available Books,My Books.
+The  “Book-Store-System” Project is a Web-based application developed using Java,Spring Boot,Spring Data JPA,Hibernate,HTML,CSS,Thymeleaf and SQL Database.The main objective of Book Store System is to allow user to New Book Register and intuitive interface for editing, deleting and check Available Books,My Books.
 
 Technologies Used: Java, Spring Boot, Spring  Data JPA ,Hibernate and SQL, HTML ,CSS, Thymeleaf.
 
+The frontend of the application is built using Html, Css,Thymeleaf, Bootstrap. The backend is built using java and spring boot and MySQL for data storage.
 The “Book-Store-System” project is a good example of a full-stack web application with CRUD functionality, and it can be used as a starting point for building more complex applications.
 
 # Homepage
